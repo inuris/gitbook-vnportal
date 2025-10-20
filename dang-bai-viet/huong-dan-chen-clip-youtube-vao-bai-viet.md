@@ -12,19 +12,17 @@
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-\[4] Tại giao diện soạn thảo bài viết mới, click thẻ <mark style="color:yellow;">**HTML**</mark> để chuyển sang giao diện soạn thảo bằng code
+\[4] Tại giao diện soạn thảo bài viết mới, click biểu tượng <mark style="color:yellow;">**Nhúng Video Youtube**</mark>
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-\[5] Dán đoạn code vào cuối bài viết.&#x20;
+\[5] \[6] Tại popup vừa hiện ra, nhấn <mark style="color:yellow;">**Ctrl+V**</mark> để paste đoạn code ở bước \[3] vào > Click <mark style="color:yellow;">**Nhúng Youtube**</mark> để hoàn thành
 
-{% hint style="danger" %}
-Nếu không hiểu rõ về code HTML thì chỉ nên dán vào cuối bài, tránh dán vào giữa bài có thể làm hỏng nội dung toàn bộ bài viết.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+\[7] Kiểm tra clip đã hiện thị ở phần Nội dung, tiếp tục soạn thảo bài viết và click **Cập nhật** để đăng bài
 
-\[6] Click thẻ <mark style="color:yellow;">**Design**</mark> để trở lại giao diện soạn thảo Cơ bản
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
 
