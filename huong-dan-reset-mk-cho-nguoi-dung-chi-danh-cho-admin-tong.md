@@ -1,6 +1,6 @@
 # Hướng dẫn Reset MK cho người dùng (Chỉ dành cho Admin tổng)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Lưu ý: Đăng nhập bằng TK Admin tổng

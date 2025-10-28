@@ -2,7 +2,7 @@
 
 \[1] Tại giao diện soạn thảo bài viết mới, click biểu tượng <mark style="color:yellow;">**Chèn Ảnh**</mark>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[2] Cửa sổ quản lý ảnh > click chọn **Thư mục cần upload ảnh** vào
 

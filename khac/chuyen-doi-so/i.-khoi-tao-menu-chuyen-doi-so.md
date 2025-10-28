@@ -33,7 +33,7 @@
 
 \[5] \[6]: Click vào chuyên mục **Chuyển đổi số** vừa tạo (cột Danh sách chuyên mục), click nút **Thêm mới nút con**
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 \[7]: Điền tên danh mục và chọn các mục như hình:
 
