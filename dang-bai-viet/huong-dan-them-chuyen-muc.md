@@ -1,12 +1,12 @@
 # Hướng dẫn thêm Chuyên mục
 
-### Mục đích
+## Mục đích
 
 Thêm 1 chuyên mục để đăng bài viết. Chuyên mục sẽ xuất hiện ở thanh menu ngang và menu dọc.
 
 ![](<../.gitbook/assets/image (73).png>)
 
-### Thao tác
+## Thao tác
 
 \[1] Trang <mark style="color:yellow;">**Danh sách Module**</mark> > <mark style="color:yellow;">**Quản trị chuyên mục**</mark>
 
@@ -42,3 +42,18 @@ Lưu ý thêm:&#x20;
 \[6] Click <mark style="color:yellow;">**Cập nhật**</mark> để hoàn thành thêm chuyên mục
 
 ![](<../.gitbook/assets/image (42).png>)
+
+### Các kiểu Cấu hình Chuyên mục thường dùng
+
+1. Kiểu Chuyên mục khi click hiện Danh sách tin bài
+
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+
+2. Kiểu Chuyên mục khi click vào hiện nội dung (VD như các chuyên mục <mark style="color:yellow;">Giới thiệu</mark>, <mark style="color:yellow;">Cơ cấu tổ chức</mark>, <mark style="color:yellow;">Lịch sử hình thành</mark>...)
+
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+
