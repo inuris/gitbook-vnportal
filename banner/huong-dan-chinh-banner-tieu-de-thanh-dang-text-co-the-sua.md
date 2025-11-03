@@ -38,3 +38,20 @@
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 \[4] Click vào các dòng **UBND** và **Tên Trường** để sửa cho phù hợp
+
+Click <mark style="color:yellow;">**Lưu lại**</mark> để hoàn thành.&#x20;
+
+#### Trong trường hợp muốn sửa cả ảnh phía sau thì làm tiếp các bước:
+
+\[5] \[6] Click phải chuột vào phần ảnh -> <mark style="color:yellow;">**Properties**</mark>
+
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+
+\[7] Click <mark style="color:yellow;">**Chọn ảnh**</mark>, chọn ảnh trong khung **Quản trị Tài nguyên** hoặc upload ảnh mới (tương tự cách chèn ảnh khi đăng tin bài).
+
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+
+Click <mark style="color:yellow;">**OK**</mark> để hoàn thành thay ảnh. Click <mark style="color:yellow;">**Lưu lại**</mark> để hoàn thành banner.
+
