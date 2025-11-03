@@ -28,7 +28,7 @@
     </tbody>
 </table>
 </div>
-<img loading="lazy" alt="image banner" src="https://storage-edu.vnpt.vn/edu-vtu/4930/Banner/header.png" style="width: 100%; height: auto; display: block; z-index: 0; pointer-events: none;" />
+<img loading="lazy" alt="image banner" src="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-mamnon.png" style="width: 100%; height: auto; display: block; z-index: 0;"/>
 </div>
 ```
 {% endcode %}
