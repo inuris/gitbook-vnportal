@@ -4,7 +4,7 @@
 
 <mark style="color:yellow;">**Quản trị Quảng Cáo**</mark> > Click biểu tượng <mark style="color:yellow;">**Sửa**</mark> của mục **Bản đồ**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### II. THAO TÁC CẬP NHẬT
 
@@ -14,7 +14,7 @@
 
 \[3] Click <mark style="color:yellow;">**Copy HTML**</mark> để copy toàn bộ nội dung mã nhúng
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[4] Quay trở lại trang chỉnh sửa của Bản đồ, chọn tab <mark style="color:yellow;">**HTML**</mark> để chuyển sang giao diện nhập mã.
 

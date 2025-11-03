@@ -25,6 +25,7 @@
 * [Hướng dẫn cập nhật Footer (cuối trang)](banner/huong-dan-cap-nhat-footer-cuoi-trang.md)
 * [Hướng dẫn cập nhật banner Thông báo](banner/huong-dan-cap-nhat-banner-thong-bao.md)
 * [Hướng dẫn chèn banner liên kết](banner/huong-dan-chen-banner-lien-ket.md)
+* [Hướng dẫn chỉnh Banner Tiêu đề thành dạng Text có thể Sửa](banner/huong-dan-chinh-banner-tieu-de-thanh-dang-text-co-the-sua.md)
 
 ## Khác
 
