@@ -53,5 +53,9 @@ Click <mark style="color:yellow;">**Lưu lại**</mark> để hoàn thành.&#x20
 
 <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-Click <mark style="color:yellow;">**OK**</mark> để hoàn thành thay ảnh. Click <mark style="color:yellow;">**Lưu lại**</mark> để hoàn thành banner.
+\[8] Sau khi chọn ảnh mới xong, phải xóa trắng 2 mục <mark style="color:yellow;">**Width**</mark> và <mark style="color:yellow;">**Height**</mark> (nếu ko xóa thì ko click OK được) Click <mark style="color:yellow;">**OK**</mark> để hoàn thành thay ảnh.&#x20;
+
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
+Click <mark style="color:yellow;">**Lưu lại**</mark> để hoàn thành banner.
 
