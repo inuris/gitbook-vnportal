@@ -1,5 +1,13 @@
 # Hướng dẫn chỉnh Banner Tiêu đề thành dạng Text có thể Sửa
 
+## I. Mục đích
+
+Tạo banner có 2 dòng chữ, có thể cập nhật nội dung, ko cần cài đặt phần mềm chỉnh sửa ảnh
+
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+
+## II. Cách làm
+
 \[1] Vào <mark style="color:yellow;">**Quản trị Banner**</mark>, ở khung soạn thảo chọn thẻ <mark style="color:yellow;">**HTML**</mark>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
