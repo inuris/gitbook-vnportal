@@ -33,6 +33,7 @@ Lưu ý thêm:&#x20;
 
 * <mark style="color:yellow;">**Kiểu trang Đa mục:**</mark> Khi click vào chuyên mục này trên Menu ngang hoặc Menu dọc, sẽ **vào trang hiển thị danh sách các Chuyên mục con hoặc Bài viết** (thường dùng cho các mục _Tin tức_, _Sự kiện_, _Hoạt động_...)
 * <mark style="color:yellow;">**Kiểu trang Đơn mục:**</mark> Khi click vào chuyên mục này trên Menu ngang hoặc Menu dọc, sẽ **vào thẳng nội dung Bài viết** (thường dùng cho các mục _Giới thiệu trường_, _Cơ sở vật chất_, _Tổ chức BGH_...)
+* <mark style="color:yellow;">**Nhóm chuyên mục con:**</mark> Chỉ check khi là chuyên mục cha (có chứa nhiều chuyên mục con bên trong). **Ko check** nếu là chuyên mục con.
 {% endhint %}
 
 
