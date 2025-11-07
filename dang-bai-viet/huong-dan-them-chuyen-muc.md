@@ -26,7 +26,7 @@ Lưu ý: Nếu muốn thêm chuyên mục cha thì click nút **Thêm mới nút
 
 * <mark style="color:yellow;">**Hiển thị nội dung**</mark>
 * <mark style="color:yellow;">**Hiển thị trên menu ngang:**</mark> Điền số thứ tự để sắp xếp thứ tự cho chuyên mục đang thêm (Chuyên mục có số thứ tự lớn hơn sẽ **nằm bên phải** chuyên mục có số thứ tự nhỏ hơn)
-* <mark style="color:yellow;">**Hiển thị trên menu dọc:**</mark> Điền số thứ tự để sắp xếp thứ tự cho chuyên mục đang thêm (Chuyên mục có số thứ tự lớn hơn sẽ **nằm dưới** chuyên mục có số thứ tự nhỏ hơn)
+* <mark style="color:yellow;">**Hiển thị trên menu dọc:**</mark> _Nếu giao diện ko có menu dọc thì không cần check mục này._ Điền số thứ tự để sắp xếp thứ tự cho chuyên mục đang thêm (Chuyên mục có số thứ tự lớn hơn sẽ **nằm dưới** chuyên mục có số thứ tự nhỏ hơn)
 
 {% hint style="info" %}
 Lưu ý thêm:&#x20;
