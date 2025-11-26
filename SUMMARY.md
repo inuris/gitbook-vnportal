@@ -13,7 +13,7 @@
 
 * [Hướng dẫn cập nhật lại Ngày đăng của bài viết](chinh-sua-bai-viet/huong-dan-cap-nhat-lai-ngay-dang-cua-bai-viet.md)
 * [Hướng dẫn xóa hàng loạt nhiều bài viết trong chuyên mục](chinh-sua-bai-viet/huong-dan-xoa-hang-loat-nhieu-bai-viet-trong-chuyen-muc.md)
-* [Hướng dẫn copy bài viết](chinh-sua-bai-viet/huong-dan-copy-bai-viet.md)
+* [Hướng dẫn copy bài viết ra nhiều Chuyên mục](chinh-sua-bai-viet/huong-dan-copy-bai-viet-ra-nhieu-chuyen-muc.md)
 
 ## Thư viện ảnh/video
 
