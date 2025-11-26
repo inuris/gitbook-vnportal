@@ -41,6 +41,7 @@
 * [Hướng dẫn cập nhật bản đồ Google Maps](khac/huong-dan-cap-nhat-ban-do-google-maps.md)
 * [Hướng dẫn chèn PDF vào Lịch công tác](khac/huong-dan-chen-pdf-vao-lich-cong-tac.md)
 * [Hướng dẫn TTYT Phú Mỹ sửa các module riêng](khac/huong-dan-ttyt-phu-my-sua-cac-module-rieng.md)
+* [Hướng dẫn chèn liên kết vào module Liên kết web](khac/huong-dan-chen-lien-ket-vao-module-lien-ket-web.md)
 
 ***
 
