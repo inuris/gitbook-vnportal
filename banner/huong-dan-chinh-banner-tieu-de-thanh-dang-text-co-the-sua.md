@@ -71,21 +71,134 @@ Click <mark style="color:yellow;">**Lưu lại**</mark> để hoàn thành banne
 
 ### Một số mẫu ảnh làm nền banner
 
+#### Mẫu 1
+
 <figure><img src="../.gitbook/assets/header-mamnon.png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><a href="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-mamnon.png">Tải ảnh</a></p>
+
+<pre class="language-html" data-expandable="true"><code class="lang-html">&#x3C;div style="position: relative; width: 100%; text-align: center;">
+<strong>&#x3C;div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 10; pointer-events: auto;">
+</strong>&#x3C;table style="margin: 0 auto; background: rgba(255, 255, 255, 0.6); border-collapse: collapse; border-radius: 8px; padding: 10px 20px;">
+    &#x3C;tbody>
+        &#x3C;tr>
+            &#x3C;td style="text-align: center;">
+            &#x3C;h4 contenteditable="true" style="font-size: 20px; color: rgba(0, 176, 240, 1); margin: 0;">
+            Ủy Ban Nhân Dân Xã Abc
+            &#x3C;/h4>
+            &#x3C;/td>
+        &#x3C;/tr>
+        &#x3C;tr>
+            &#x3C;td style="text-align: center;">
+            &#x3C;h1 contenteditable="true" style="font-size: 48px; color: rgba(255, 0, 0, 1); margin: 5px 0 0;">
+            Trường Mầm Non Abc&#x3C;/h1>
+            &#x3C;/td>
+        &#x3C;/tr>
+    &#x3C;/tbody>
+&#x3C;/table>
+&#x3C;/div>
+&#x3C;img loading="lazy" alt="image banner" src="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-mamnon.png" style="width: 100%; height: auto; display: block; z-index: 0;"/>
+&#x3C;/div>
+</code></pre>
+
+#### Mẫu 2
 
 <figure><img src="../.gitbook/assets/header-mamnon-2.png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><a href="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-mamnon-2-874616.png">Tải ảnh</a></p>
 
+<pre class="language-html" data-expandable="true"><code class="lang-html">&#x3C;div style="position: relative; width: 100%; text-align: center;">
+<strong>&#x3C;div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 10; pointer-events: auto;">
+</strong>&#x3C;table style="margin: 0 auto; background: rgba(255, 255, 255, 0.6); border-collapse: collapse; border-radius: 8px; padding: 10px 20px;">
+    &#x3C;tbody>
+        &#x3C;tr>
+            &#x3C;td style="text-align: center;">
+            &#x3C;h4 contenteditable="true" style="font-size: 20px; color: rgba(0, 176, 240, 1); margin: 0;">
+            Ủy Ban Nhân Dân Xã Abc
+            &#x3C;/h4>
+            &#x3C;/td>
+        &#x3C;/tr>
+        
+        
+        
+        &#x3C;tr>
+            &#x3C;td style="text-align: center;">
+            &#x3C;h1 contenteditable="true" style="font-size: 48px; color: rgba(255, 0, 0, 1); margin: 5px 0 0;">
+            Trường Mầm Non Abc&#x3C;/h1>
+            &#x3C;/td>
+        &#x3C;/tr>
+    &#x3C;/tbody>
+&#x3C;/table>
+&#x3C;/div>
+&#x3C;img loading="lazy" alt="image banner" src="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-mamnon-2-874616.png" style="width: 100%; height: auto; display: block; z-index: 0;"/>
+&#x3C;/div>
+</code></pre>
+
+#### Mẫu 3
+
 <figure><img src="../.gitbook/assets/header-tieuhoc.png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><a href="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-tieuhoc.png">Tải ảnh</a></p>
 
+{% code expandable="true" %}
+```html
+<div style="position: relative; width: 100%; text-align: center;">
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 10; pointer-events: auto;">
+<table style="margin: 0 auto; background: rgba(255, 255, 255, 0.6); border-collapse: collapse; border-radius: 8px; padding: 10px 20px;">
+    <tbody>
+        <tr>
+            <td style="text-align: center;">
+            <h4 contenteditable="true" style="font-size: 20px; color: rgba(0, 176, 240, 1); margin: 0;">
+            Ủy Ban Nhân Dân Xã Abc
+            </h4>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+            <h1 contenteditable="true" style="font-size: 48px; color: rgba(255, 0, 0, 1); margin: 5px 0 0;">
+            Trường Mầm Non Abc</h1>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<img loading="lazy" alt="image banner" src="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-tieuhoc.png" style="width: 100%; height: auto; display: block; z-index: 0;"/>
+</div>
+```
+{% endcode %}
+
+#### Mẫu 4
+
 <figure><img src="../.gitbook/assets/header-tieuhoc-2.png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><a href="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-tieuhoc-2.png">Tải ảnh</a></p>
+
+{% code expandable="true" %}
+```html
+<div style="position: relative; width: 100%; text-align: center;">
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 10; pointer-events: auto;">
+<table style="margin: 0 auto; background: rgba(255, 255, 255, 0.6); border-collapse: collapse; border-radius: 8px; padding: 10px 20px;">
+    <tbody>
+        <tr>
+            <td style="text-align: center;">
+            <h4 contenteditable="true" style="font-size: 20px; color: rgba(0, 176, 240, 1); margin: 0;">
+            Ủy Ban Nhân Dân Xã Abc
+            </h4>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+            <h1 contenteditable="true" style="font-size: 48px; color: rgba(255, 0, 0, 1); margin: 5px 0 0;">
+            Trường Mầm Non Abc</h1>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<img loading="lazy" alt="image banner" src="https://storage-edu.vnpt.vn/edu-vtu/1/BannerDungChung/header-tieuhoc-2.png" style="width: 100%; height: auto; display: block; z-index: 0;"/>
+</div>
+```
+{% endcode %}
 
 
 
